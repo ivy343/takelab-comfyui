@@ -48,6 +48,8 @@ COMFY_URL=http://127.0.0.1:8188 npm start
 
 ## 카메라 레시피
 
+실행 그래프 템플릿은 [`workflows/camera-api.json`](workflows/camera-api.json), 입력 이름을 바꾸는 방법은 [워크플로 안내](workflows/README.md)를 확인하세요.
+
 ```json
 {
   "version": 1,
