@@ -1,10 +1,10 @@
 {
-  "name": "takelab",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "description": "A visual camera director and reproducible ComfyUI take renderer",
-  "engines": { "node": ">=22" },
-  "scripts": { "start": "node server.mjs", "test": "node --test tests/server.test.mjs" },
-  "license": "MIT"
+  "name":"takelab-motion-takes",
+  "version":"0.2.0",
+  "private":true,
+  "type":"module",
+  "description":"Camera-conditioned ComfyUI video takes with synchronized comparison",
+  "engines":{"node":">=22"},
+  "scripts":{"start":"node server.mjs","test":"node --test tests/*.test.mjs"},
+  "license":"MIT"
 }

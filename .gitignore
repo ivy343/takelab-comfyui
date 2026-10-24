@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 *.log
 .vercel/
+models/
+*.safetensors
+*.part
